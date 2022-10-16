@@ -13,3 +13,5 @@ A music streaming app , that lets you:
 -Detailed lyrics for each song if available
 
 -Mobile Responsive
+
+Link: https://vibes-streamer.netlify.app
